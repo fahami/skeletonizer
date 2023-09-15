@@ -7,11 +7,11 @@ screenshots:
     path: art/screen_shot_1.png
 
 environment:
-  sdk: '>=3.0.0 <4.0.0'
+  sdk: '>=2.19.0 <4.0.0'
   flutter: ">=1.17.0"
 
 dependencies:
-  collection: ^1.17.1
+  collection: ^1.17.0
   flutter:
     sdk: flutter
 
